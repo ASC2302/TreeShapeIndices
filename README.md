@@ -6,7 +6,7 @@
 
 ```r
 install.packages("remotes")
-remotes::install_github("ASC2302/TreeShapeIndicesC")
+remotes::install_github("ASC2302/TreeShapeIndices")
 ```
 
 ## Basic usage
