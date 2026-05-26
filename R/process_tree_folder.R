@@ -20,7 +20,7 @@ process_tree_folder <- function(
   min_tips = 0,
   max_tips = 20000,
   include_full_tree = FALSE,
-  pattern = "\.(txt|nwk|tree|tre|nex|nexus)$",
+  pattern = "\\.(txt|nwk|tree|tre|nex|nexus)$",
   output_folder = tree_folder
 ) {
 
