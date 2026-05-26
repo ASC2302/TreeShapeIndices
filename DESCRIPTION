@@ -2,7 +2,7 @@ Package: TreeShapeIndices
 Type: Package
 Title: Calculate Universal Tree Shape Indices for Phylogenetic Trees
 Version: 0.1.0
-Authors@R: person("Alex", "Chitiga", email = "chitigaalexandru@gmail.com", role = c("aut", "cre"))
+Authors@R: person("Alex", "Chitiga", email = "Alexandru.Chitiga@city.ac.uk", role = c("aut", "cre"))
 Description: Tools for reading phylogenetic trees, extracting subtrees within a user-defined tip-count range, and calculating universal tree shape indices using Rcpp.
 License: MIT + file LICENSE
 Encoding: UTF-8
