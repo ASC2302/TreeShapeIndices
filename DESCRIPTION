@@ -1,4 +1,4 @@
-Package: TreeShapeIndicesC
+Package: TreeShapeIndices
 Type: Package
 Title: Calculate Universal Tree Shape Indices for Phylogenetic Trees
 Version: 0.1.0
